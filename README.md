@@ -19,9 +19,9 @@ Kolmogorov Smirnov Test(Scipy)
 4. Teachers generally receive high satisfaction scores for both teaching and effectiveness.  
 **Most instructors have scores concentrated above 5, with only a few falling below. This suggests that students are generally highly satisfied and positive about most instructors' teaching effectiveness.**
 
-![Figure 2022-06-27 124850 (0)](https://github.com/WSY-Samuel/EMI/assets/87291914/8e53df4c-b09a-426c-a672-e35194afafd2)  
+![Figure 2022-06-27 124850 (0)](https://github.com/WSY-Samuel/EMI/assets/87291914/8e53df4c-b09a-426c-a672-e35194afafd2)
 ![Figure 2022-06-27 124850 (1)](https://github.com/WSY-Samuel/EMI/assets/87291914/08affeb0-34af-4c41-80d5-320d8353787f)  
-![Figure 2022-06-27 132542 (0)](https://github.com/WSY-Samuel/EMI/assets/87291914/a2f70d66-2964-4f9a-a680-aadf4bff527a)  
+![Figure 2022-06-27 132542 (0)](https://github.com/WSY-Samuel/EMI/assets/87291914/a2f70d66-2964-4f9a-a680-aadf4bff527a)
 ![Figure 2022-06-27 132542 (1)](https://github.com/WSY-Samuel/EMI/assets/87291914/61f6a038-1786-4b56-975b-f99d2272d165)  
 
 ### The reason why lack of signifiance:
