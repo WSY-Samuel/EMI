@@ -10,6 +10,11 @@ Kolmogorov Smirnov Test(Scipy)
 
 ## Introdution 
 - Why I choose K-S test: I used the K-S test to check if the data follows a normal distribution. The obtained p-values reject this idea, proving that the data is not normally distributed. Since I can't use a t-test, I'll use non-parametric tests to evaluate the effectiveness of EMI.
+![Figure 2022-06-25 175318 (0)](https://github.com/WSY-Samuel/EMI/assets/87291914/158368c9-3365-4b32-bdec-2f6e5b63944e)
+![Figure 2022-06-25 175318 (1)](https://github.com/WSY-Samuel/EMI/assets/87291914/d5ed6e62-0fe1-4a10-abad-445ada94edfd)  
+![Figure 2022-06-25 175318 (2)](https://github.com/WSY-Samuel/EMI/assets/87291914/aee50772-ba4e-425c-a1d4-584f4a5d9e85)
+![Figure 2022-06-25 175318 (3)](https://github.com/WSY-Samuel/EMI/assets/87291914/7c0e673e-8006-4f5b-9ea7-187e33e339c5)  
+
 - The primary analysis covers the entire university,the Chemistry, Electrical Engineering, and Mechatronics Engineering departments, focusing on the average student satisfaction and self-assessed learning outcomes for courses taught in both Chinese and English.
 
 ## Conclusion:
