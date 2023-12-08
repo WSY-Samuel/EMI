@@ -13,7 +13,7 @@
 1. Students rate their learning outcomes differently between courses in Chinese and English across the whole university.
 2. In teaching satisfaction, there's a notable difference between fully English-taught programs and regular programs in Electrical Engineering and Mechatronics Engineering.
 3. Both Chinese-English courses and fully English-taught programs score well above 5, mostly exceeding 6, for teaching satisfaction and learning outcomes.
-4. Teachers generally receive high satisfaction scores for both teaching and effectiveness.
+4. Teachers generally receive high satisfaction scores for both teaching and effectiveness.  
 **Most instructors have scores concentrated above 5, with only a few falling below. This suggests that students are generally highly satisfied and positive about most instructors' teaching effectiveness.**
 
 ## The reason why lack of signifiance:
