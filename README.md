@@ -6,7 +6,7 @@ From 2021, the project of a fully English-taught course started at NSYSU. Every 
 Measuring achievements through teaching satisfaction and self-assessment of study performance in a fully English-taught course to examine the 'customer acceptance' of fully English classes.
 
 #### Models: 
-kolmogorov smirnov test(Scipy)
+Kolmogorov Smirnov Test(Scipy)
 
 ## Introdution 
 - Why I choose K-S test: I used the K-S test to check if the data follows a normal distribution. The obtained p-values reject this idea, proving that the data is not normally distributed. Since I can't use a t-test, I'll use non-parametric tests to evaluate the effectiveness of EMI.
