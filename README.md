@@ -1,6 +1,4 @@
 # EMI
- Measuring achievements in a fully English-taught course to examine the 'customer acceptance' of fully English classes.
-
 #### Background: 
 From 2021, the project of a fully English-taught course started at NSYSU. Every student gives feedback on teaching and rates their own learning at the end of each semester. There are 20 questions for each, scored from 1 to 7. Higher scores mean a better view of the teacher or more dedication to the subject.
 
